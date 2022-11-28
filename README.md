@@ -1,3 +1,6 @@
+This is a Netflix Clone made using Reactjs and APIs from tmdb.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
