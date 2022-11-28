@@ -1,4 +1,4 @@
-This is a Netflix Clone made using Reactjs and APIs from tmdb.com
+#This is a Netflix Clone made using Reactjs and APIs from tmdb.com
 
 
 # Getting Started with Create React App
