@@ -1,0 +1,28 @@
+.rowPosters{
+    display: flex;
+    overflow-x: visible;
+    overflow-y: hidden;
+}
+
+.rowPosters::-webkit-scrollbar{
+    display: none;
+}
+
+.rowPoster{
+    padding: 20px 10px;
+    width: 19vw;
+    height: auto;
+    transition: transform 400ms;
+}
+
+.rowPoster:hover{
+    transform: scale(1.1);
+}
+
+p{
+    color: white;
+    padding: 0px 10px;
+    font-size: 3vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
