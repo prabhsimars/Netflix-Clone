@@ -1,5 +1,12 @@
 # This is a Netflix Clone made using Reactjs and APIs from tmdb.com
 
+## Things used:-
+ 1. Functional Components
+ 2. Routing
+ 3. UseEffect
+ 4. UseState
+ 5. Axios
+ 6. React-Bootstrap
 
 # Getting Started with Create React App
 
